@@ -8,7 +8,7 @@ t = "python"
 print(s+"!",t)
 
 #14번
-
+print(2+2*3)
 #15번
 
 #16번
