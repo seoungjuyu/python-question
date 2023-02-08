@@ -10,9 +10,10 @@ print(s+"!",t)
 #14번
 print(2+2*3)
 #15번
-print(type(int("720")))
+a = 123
+print (type(a))
 #16번
-
+print(type(int("720")))
 #17번
 
 #18번
