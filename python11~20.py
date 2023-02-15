@@ -19,6 +19,7 @@ print(type(int("720")))
 num = 100
 result = str(num)
 print(result, type(result))
+
 #18번
 
 #19번
