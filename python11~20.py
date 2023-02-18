@@ -26,7 +26,9 @@ result = str(num)
 print(result, type(result))
 
 #18번
-
+data = "15.79"
+data = float(data)
+print(data, type(data))
 #19번
 
 #20번
