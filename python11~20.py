@@ -32,5 +32,9 @@ data = "15.79"
 data = float(data)
 print(data, type(data))
 #19번
+year = "2020"
+print(int(year)-3)  # 2017
+print(int(year)-2)  # 2018
+print(int(year)-1)  # 2019
 
 #20번
