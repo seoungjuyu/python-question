@@ -7,6 +7,8 @@ license_plate = "24가 2210"
 
 print(license_plate[-4:])
 #23
+string = "홀짝홀짝홀짝"
+print(string[::2])
 #24
 #25
 #26
