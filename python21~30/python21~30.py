@@ -10,6 +10,8 @@ print(license_plate[-4:])
 string = "홀짝홀짝홀짝"
 print(string[::2])
 #24
+string = "PYTHON"
+print(string[::-1])
 #25
 #26
 #27
