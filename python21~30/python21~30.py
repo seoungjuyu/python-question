@@ -13,6 +13,9 @@ print(string[::2])
 string = "PYTHON"
 print(string[::-1])
 #25
+phone_number = "010-1111-2222"
+new_number = phone_number.replace('-', '')
+print(new_number)
 #26
 #27
 #28
