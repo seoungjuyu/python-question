@@ -17,6 +17,10 @@ phone_number = "010-1111-2222"
 new_number = phone_number.replace('-', '')
 print(new_number)
 #26
+phone_number = "010-1111-2222"
+new_number = phone_number.replace('-', '')
+print(new_number)
+
 #27
 #28
 #29
