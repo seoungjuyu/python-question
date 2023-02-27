@@ -22,6 +22,9 @@ new_number = phone_number.replace('-', '')
 print(new_number)
 
 #27
+url = "http://sharebook.kr"
+url_split = url.split('.')
+print(url_split[-1])
 #28
 #29
 #30
