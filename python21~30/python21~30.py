@@ -34,4 +34,7 @@ print(lang)
 # 문자열은 수정할 수 없음. 
 
 #29
+string = 'abcdfe2a354a32a'
+string1 = string.replace('a', 'A')
+print(string1)
 #30
