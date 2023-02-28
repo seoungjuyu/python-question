@@ -26,5 +26,12 @@ url = "http://sharebook.kr"
 url_split = url.split('.')
 print(url_split[-1])
 #28
+lang = 'python'
+lang [0] = 'p'
+print(lang)
+
+# >>>TypeError: 'str' object does not support item assignment
+# 문자열은 수정할 수 없음. 
+
 #29
 #30
