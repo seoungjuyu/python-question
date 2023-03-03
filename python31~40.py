@@ -13,3 +13,12 @@ print("Hi" * 3)    #HiHiHi
 
 # - 를 80개 출력
 print("-" * 80)  #--------------------------------------------------------------------------------
+
+# 34 (문자열 곱하기)
+
+# 문자열 + 문자열 곱하기 출력
+t1 = 'python'
+t2 = 'java'
+p = t1 + ' ' + t2 + ' '
+
+print(p * 4) #python java python java python java python java
