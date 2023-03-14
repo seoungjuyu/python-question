@@ -22,3 +22,18 @@ print(name)
 file_name = "보고서.xlsx"
 name1 = file_name.endswith("xls,xlsx") #튜플을 적고 여려패턴을 적어주면 됨
 print(name1)
+
+#46
+a = "hello world"
+a.split()
+print(a.split())
+
+#47
+ticker = "btc_krw"
+ticker.split("_")
+print(ticker.split("_"))
+
+#48
+date = "2020-05-01"
+date.split("-")
+print(date.split("-"))
