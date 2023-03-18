@@ -37,3 +37,8 @@ print(ticker.split("_"))
 date = "2020-05-01"
 date.split("-")
 print(date.split("-"))
+
+#49
+file_name = "2020_보고서.xlsx"
+name = file_name.startswith("2020")
+print(name)
