@@ -42,3 +42,8 @@ print(date.split("-"))
 file_name = "2020_보고서.xlsx"
 name = file_name.startswith("2020")
 print(name)
+
+#50
+data = "039490     "
+data1 = data.rstrip()
+print(data1)
