@@ -38,3 +38,8 @@ nums = [1, 2, 3, 4, 5, 6, 7]
 
 print("max: ", max(nums))
 print("min: ", min(nums))
+
+#58
+nums = [1, 2, 3, 4, 5]
+sum_nums = sum(nums)
+print(sum_nums)
