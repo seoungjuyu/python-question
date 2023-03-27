@@ -22,3 +22,9 @@ movie = ['닥터 스트레인지', '슈퍼맨', '스플릿', '배트맨']
 del movie[2]
 del movie[2]  
 print(movie)
+
+#56
+lang1 = ["C", "C++", "JAVA"]
+lang2 = ["Python", "Go", "C#"]
+langs = lang1 + lang2
+print(langs)
