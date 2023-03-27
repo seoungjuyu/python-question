@@ -28,3 +28,13 @@ lang1 = ["C", "C++", "JAVA"]
 lang2 = ["Python", "Go", "C#"]
 langs = lang1 + lang2
 print(langs)
+
+#57
+nums = [1, 2, 3, 4, 5, 6, 7]
+#최대값 max
+# nums.index(max(nums))
+#최소값 min
+# nums.index(max(nums))
+
+print("max: ", max(nums))
+print("min: ", min(nums))
