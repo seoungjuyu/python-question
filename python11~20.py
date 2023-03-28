@@ -38,3 +38,6 @@ print(int(year)-2)  # 2018
 print(int(year)-1)  # 2019
 
 #20번
+m = 48,584
+year = m * 36
+print(year)
