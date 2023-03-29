@@ -37,4 +37,13 @@ print(lang)
 string = 'abcdfe2a354a32a'
 string1 = string.replace('a', 'A')
 print(string1)
+
 #30
+# replace 메서드
+# 아래 코드의 실행 결과를 예상해보세요.
+
+# string = 'abcd'
+# string.replace('b', 'B')
+#  print(string)
+
+# `abcd`가 그대로 출력 -> 문자열은 변경할 수  없는 자형 이기 때문
