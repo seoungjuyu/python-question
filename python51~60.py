@@ -50,5 +50,5 @@ print(len(cook))
 
 #60
 nums = [1, 2, 3, 4, 5]
-r_nums = sum(nums)/len(nums)
+r_nums = sum(nums)/len(nums)  #평균을 구할떄 
 print(r_nums)
