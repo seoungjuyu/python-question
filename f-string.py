@@ -12,3 +12,8 @@ print(r1)
 c = 'conter'
 c1 = f'{c:^10}'
 print(c1)
+
+# 중괄호 출력
+num = 5
+rnum = f' my age {{{num}}} {{num}}'
+print(rnum)
