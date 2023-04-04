@@ -65,3 +65,8 @@ print(타입변환, type(타입변환))
 #39
 분기 = "2020/03(E) (IFRS연결)"
 print(분기[:7])
+
+#40
+data = "   삼성전자    "
+data1 = data.strip()
+print(data1)
