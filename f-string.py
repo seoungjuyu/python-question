@@ -17,3 +17,4 @@ print(c1)
 num = 5
 rnum = f' my age {{{num}}} {{num}}'
 print(rnum)
+
