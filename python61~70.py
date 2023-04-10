@@ -5,11 +5,15 @@ print(price[1:])
 #62
 nums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 print(nums[0::2])
-
 #63
+
 nums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 print(nums[1::2])
 
 #64
 nums = [1, 2, 3, 4, 5]
 print(nums[::-1])
+
+#65
+interest = ['삼성전자', 'LG전자', 'Naver']
+print(interest[0],interest[2])
