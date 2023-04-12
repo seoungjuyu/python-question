@@ -34,3 +34,8 @@ print("/n".join(interest))
 string = "삼성전자/LG전자/Naver"
 interest = string.split("/")
 print(interest)
+
+#70
+data = [2, 4, 3, 1, 5, 10, 9]
+data.sort()
+print(data)
