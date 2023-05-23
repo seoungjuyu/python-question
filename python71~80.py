@@ -1,4 +1,4 @@
-# https://wikidocs.net/7027
+# https://wikidocs.net/7027 (python tuple)
 
 #71
 my_variable = ()
@@ -20,3 +20,10 @@ print(number[1])
 # TypeError: 'tuple' object does not support item assignment
 
 # -> tuple은 원소의 값을 변경할 수 없음
+
+#75
+t = 1, 2, 3, 4
+#괄호와 함께 데이터를 정의해야 하지만, 사용자 편의를 위해 괄호 없이도 동작한다.
+
+
+
