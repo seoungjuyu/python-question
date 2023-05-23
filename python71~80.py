@@ -25,5 +25,11 @@ print(number[1])
 t = 1, 2, 3, 4
 #괄호와 함께 데이터를 정의해야 하지만, 사용자 편의를 위해 괄호 없이도 동작한다.
 
+#76
+t = ('a', 'b', 'c')
 
+#77
+interest = ('삼성전자', 'LG전자', 'SK Hynix')
+lst = list(interest)
 
+print(lst)
