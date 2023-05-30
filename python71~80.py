@@ -33,3 +33,7 @@ interest = ('삼성전자', 'LG전자', 'SK Hynix')
 lst = list(interest)
 
 print(lst)
+
+#78
+interest = ('삼성전자', 'LG전자', 'SK Hynix')
+list = tuple(interest)
