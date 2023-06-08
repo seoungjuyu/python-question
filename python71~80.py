@@ -45,3 +45,5 @@ print(a, b, c)
 # apple, banana, cake
 
 #80
+number = tuple(range (1, 99, 2))
+print (number)
