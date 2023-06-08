@@ -37,3 +37,11 @@ print(lst)
 #78
 interest = ('삼성전자', 'LG전자', 'SK Hynix')
 list = tuple(interest)
+
+#79
+temp = ('apple', 'banana', 'cake')
+a, b, c = temp
+print(a, b, c)
+# apple, banana, cake
+
+#80
